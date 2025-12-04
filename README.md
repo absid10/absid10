@@ -15,7 +15,7 @@ Aspiring **Software Engineer** with a focus on **full‑stack development**, **A
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL` · `C++`
+`Python` · `Java` ·  `JavaScript` · `TypeScript` · `SQL` · `C++`
 
 **Frameworks & Libraries**  
 `React` · `Node.js` · `Express` · `Leaflet.js` · `OpenCV` · `Pandas` · `NumPy` · `Tkinter`
