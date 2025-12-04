@@ -1,66 +1,69 @@
 # Hi, I'm Abdullah 👋
 
-Aspiring **Software Engineer** with a focus on **full‑stack development**, **APIs**, and **data‑driven applications**. I enjoy building scalable systems, modeling data, and implementing algorithms—from A* pathfinding for indoor navigation to face‑recognition‑based attendance systems.
+Aspiring **Software Engineer** with strong foundations in **OOP**, **data structures**, **full‑stack development**, and **database systems**. I enjoy building scalable applications, troubleshooting system issues, and working with **APIs**, **SQL**, and modern web technologies across the full software development lifecycle.
 
-- 🌍 Based in **Chh. Sambhajinagar (Aurangabad), Maharashtra**
-- 🎓 B.Tech in **Computer Science & Engineering** @ Government College of Engineering (GECA), Chh. Sambhajinagar  
-- 🔭 Currently working on: **Smart Hospital Navigation & Wayfinding System** (multi‑building indoor maps + A* pathfinding)
-- 🌱 Learning: **PostgreSQL**, **Flask**, better **system design**, and **testing practices**
-- 💬 Interested in: full‑stack web dev, algorithms, and data‑oriented applications
-- 📫 Reach me: **siddiquiabdullahahmed75@gmail.com**
+- 📍 Based in **Chh. Sambhajinagar (Aurangabad), Maharashtra – 431002**
+- 🎓 **B.Tech in Computer Science & Engineering**, Government College of Engineering (GECA), Chh. Sambhajinagar  
+  - CGPA: **6.36 / 10.0** (till 7th semester)  
+  - Expected Graduation: **May 2026**
+- 📫 Email: **siddiquiabdullahahmed75@gmail.com**
 - 🔗 LinkedIn: [absid10](https://www.linkedin.com/in/absid10)
+- 💻 GitHub: [absid10](https://github.com/absid10)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 **Languages**  
-`Python` · `Java` ·  `JavaScript` · `TypeScript` · `SQL` · `C++`
+`Python` · `Java` · `JavaScript / TypeScript` · `SQL` · `C++`
 
 **Frameworks & Libraries**  
-`React` · `Node.js` · `Express` · `Leaflet.js` · `OpenCV` · `Pandas` · `NumPy` · `Tkinter`
+`React` · `Node.js` · `Express` · `OpenCV` · `Leaflet.js` · `Pandas` · `NumPy` · `Tkinter`
 
 **Databases**  
 `MySQL` · `MongoDB` · `PostgreSQL (basic)`
 
 **Tools**  
-`Git` · `GitHub` · `Postman` · `VS Code` · `MySQL Workbench` · `Jupyter Notebook`
+`Git` · `GitHub` · `Postman` · `VS Code` · `Jupyter Notebook` · `MySQL Workbench`
 
 **Core Concepts**  
-`OOP` · `Data Structures` · `REST APIs` · `SDLC` · `Debugging` · `Data Modeling` · `A* Pathfinding` · `Graph Structures` · `JSON/CSV/XML`
+`REST APIs` · `SDLC` · `Debugging` · `Data Modeling` · `A* Algorithm` · `Graph Structures` · `JSON / CSV / XML`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-> I’m in the process of polishing and uploading these projects to GitHub. Links will be added as repositories become public.
-
-### 🏥 Smart Hospital Navigation & Wayfinding System *(Major Project — In Progress)*
+### 🏥 Smart Hospital Navigation & Wayfinding System *(Major Project — In Progress)*  
+**GitHub:** [smart-hospital-navigation](https://github.com/absid10/smart-hospital-navigation)
 
 Multi‑building hospital navigation system with interactive indoor maps and accessibility‑aware routing.
 
-- **React + TypeScript** and **Leaflet.js** with **SVG‑based hospital floor maps**
-- **A\*** pathfinding over **graph‑structured JSON** datasets
-- Planned **Flask + PostgreSQL** backend for scalable storage of maps and routes  
-- **Tech:** `React` · `TypeScript` · `Leaflet.js` · `SVG` · `A* Algorithm` · `JSON` · `Flask (planned)` · `PostgreSQL (planned)`
+- Building a multi‑building navigation system using **React + TypeScript**, integrating **Leaflet.js** and **SVG‑based indoor maps**.
+- Implementing **A\*** pathfinding with **graph‑structured JSON** datasets for accurate routing and accessibility‑aware navigation.
+- Designing modular architecture with a planned **Flask + PostgreSQL** backend for scalable map and route storage.
+- **Tech Stack:** `React` · `TypeScript` · `Leaflet.js` · `SVG Maps` · `A* Algorithm` · `JSON`
+
+---
+
+### 🧠 FaceID‑Attendance‑App (AI‑Based Attendance System)  
+**GitHub:** [FaceID-Attendance-App](https://github.com/absid10/FaceID-Attendance-App)
+
+Desktop attendance tool using face recognition with a Tkinter‑based interface.
+
+- Modernized a **Tkinter** desktop console orchestrating **OpenCV (Haar Cascade + LBPH)** pipelines for real‑time enrollment and attendance capture.
+- Automated the full lifecycle — CSV‑based enrollment queue, dataset capture (**60+ frames / user**), LBPH retraining, and attendance exports ready for **Excel / HRIS ingestion**.
+- Hardened admin tooling with user management, retraining shortcuts, and confidence readouts to keep datasets clean and model predictions reliable.
+- **Tech Stack:** `Python 3.10+` · `OpenCV (LBPH)` · `Tkinter` · `Pandas` · `NumPy` · `CSV`
+
+---
 
 ### 🎓 College Management Information System (MIS)
 
 Full‑stack MIS for managing student and faculty records.
 
-- Backend in **Java + MySQL**
-- Web UI using **HTML, CSS, JavaScript**
-- Optimized **SQL queries** for fast data retrieval  
-- **Tech:** `Java` · `MySQL` · `HTML` · `CSS` · `JavaScript`
-
-### 🧠 AI‑Based Desktop Attendance System
-
-Desktop attendance tool using face recognition.
-
-- **OpenCV** with **Haar Cascade + LBPH** for facial recognition
-- Attendance export to **CSV** via **Pandas**
-- Simple **Tkinter GUI** for end users  
-- **Tech:** `Python` · `OpenCV` · `Pandas` · `NumPy` · `Tkinter`
+- Built a full‑stack MIS using **Java + MySQL** to manage student and faculty records.
+- Designed the UI with **HTML, CSS, JavaScript** and optimized **SQL queries** for faster data retrieval.
+- **Tech Stack:** `Java` · `MySQL` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
@@ -70,15 +73,23 @@ Desktop attendance tool using face recognition.
 `Problem Solving` · `Debugging` · `SQL Querying` · `API Understanding` · `Analytical Thinking`
 
 **Professional**  
-`Teamwork` · `Communication` · `Adaptability` · `Time Management`
+`Communication` · `Teamwork` · `Adaptability` · `Time Management`
 
 ---
 
 ## 🌱 What I’m Focusing on Right Now
 
-- Turning academic projects into **clean, well‑documented GitHub repositories**
-- Strengthening **backend skills** with **Flask/Node.js** and **PostgreSQL**
-- Practicing **data structures & algorithms** in `Java` and `C++`
-- Contributing to projects that span the **full software development lifecycle**
+- Turning academic projects into **clean, well‑documented GitHub repositories**.
+- Strengthening **backend development skills** with **Flask / Node.js** and **PostgreSQL**.
+- Practicing **data structures & algorithms** in `Java` and `C++`.
+- Building experience across the **full software development lifecycle** — from requirements to deployment.
+
+---
+
+## 🌐 Languages
+
+`English` (Fluent) · `Hindi` (Native) · `Urdu` (Native) · `Marathi` (Conversational)
+
+---
 
 Thanks for visiting my profile!
