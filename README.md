@@ -37,7 +37,7 @@ Aspiring **Software Engineer** with strong foundations in **OOP**, **data struct
 
 ---
 
-## 🧰 Tech Stack (Icons)
+## 🧰 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />
