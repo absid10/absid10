@@ -1,5 +1,21 @@
-# Hi, I'm Abdullah 👋
+<div align="center">
+  <h1>🚀 Hi 👋, I'm Abdullah</h1>
+  <h3>A passionate software engineer in the making — full-stack, data structures, and system design enthusiast</h3>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=absid10&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+    <a href="https://www.linkedin.com/in/absid10/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/absid10">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 🧭 About Me
 Aspiring **Software Engineer** with strong foundations in **OOP**, **data structures**, **full‑stack development**, and **database systems**. I enjoy building scalable applications, troubleshooting system issues, and working with **APIs**, **SQL**, and modern web technologies across the full software development lifecycle.
 
 - 📍 Based in **Chh. Sambhajinagar (Aurangabad), Maharashtra – 431002**
@@ -13,7 +29,6 @@ Aspiring **Software Engineer** with strong foundations in **OOP**, **data struct
 ---
 
 ## 🛠️ Technical Skills
-
 **Languages**  
 `Python` · `Java` · `JavaScript / TypeScript` · `SQL` · `C++`
 
@@ -43,8 +58,6 @@ Multi‑building hospital navigation system with interactive indoor maps and acc
 - Designing modular architecture with a planned **Flask + PostgreSQL** backend for scalable map and route storage.
 - **Tech Stack:** `React` · `TypeScript` · `Leaflet.js` · `SVG Maps` · `A* Algorithm` · `JSON`
 
----
-
 ### 🧠 FaceID‑Attendance‑App (AI‑Based Attendance System)  
 **GitHub:** [FaceID-Attendance-App](https://github.com/absid10/FaceID-Attendance-App)
 
@@ -54,8 +67,6 @@ Desktop attendance tool using face recognition with a Tkinter‑based interface.
 - Automated the full lifecycle — CSV‑based enrollment queue, dataset capture (**60+ frames / user**), LBPH retraining, and attendance exports ready for **Excel / HRIS ingestion**.
 - Hardened admin tooling with user management, retraining shortcuts, and confidence readouts to keep datasets clean and model predictions reliable.
 - **Tech Stack:** `Python 3.10+` · `OpenCV (LBPH)` · `Tkinter` · `Pandas` · `NumPy` · `CSV`
-
----
 
 ### 🎓 College Management Information System (MIS)
 
@@ -68,7 +79,6 @@ Full‑stack MIS for managing student and faculty records.
 ---
 
 ## 💡 Core Competencies
-
 **Technical**  
 `Problem Solving` · `Debugging` · `SQL Querying` · `API Understanding` · `Analytical Thinking`
 
@@ -78,7 +88,6 @@ Full‑stack MIS for managing student and faculty records.
 ---
 
 ## 🌱 What I’m Focusing on Right Now
-
 - Turning academic projects into **clean, well‑documented GitHub repositories**.
 - Strengthening **backend development skills** with **Flask / Node.js** and **PostgreSQL**.
 - Practicing **data structures & algorithms** in `Java` and `C++`.
@@ -87,8 +96,49 @@ Full‑stack MIS for managing student and faculty records.
 ---
 
 ## 🌐 Languages
-
 `English` (Fluent) · `Hindi` (Native) · `Urdu` (Native) · `Marathi` (Conversational)
+
+---
+
+## 🧰 Tech Stack (Icons)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="34" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="34" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=tokyonight" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=tokyonight&hide=issues" height="170" alt="GitHub stats" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/absid10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/absid10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
