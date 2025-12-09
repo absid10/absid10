@@ -29,104 +29,82 @@ Aspiring **Software Engineer** with strong foundations in **OOP**, **data struct
 ---
 
 ## 🛠️ Technical Skills
-**Languages**  
-`Python` · `Java` · `JavaScript / TypeScript` · `SQL` · `C++`
-
-**Frameworks & Libraries**  
-`React` · `Node.js` · `Express` · `OpenCV` · `Leaflet.js` · `Pandas` · `NumPy` · `Tkinter`
-
-**Databases**  
-`MySQL` · `MongoDB` · `PostgreSQL (basic)`
-
-**Tools**  
-`Git` · `GitHub` · `Postman` · `VS Code` · `Jupyter Notebook` · `MySQL Workbench`
-
-**Core Concepts**  
-`REST APIs` · `SDLC` · `Debugging` · `Data Modeling` · `A* Algorithm` · `Graph Structures` · `JSON / CSV / XML`
-
----
-
-## 📌 Projects
-
-### 🏥 Smart Hospital Navigation & Wayfinding System *(Major Project — In Progress)*  
-**GitHub:** [smart-hospital-navigation](https://github.com/absid10/smart-hospital-navigation)
-
-Multi‑building hospital navigation system with interactive indoor maps and accessibility‑aware routing.
-
-- Building a multi‑building navigation system using **React + TypeScript**, integrating **Leaflet.js** and **SVG‑based indoor maps**.
-- Implementing **A\*** pathfinding with **graph‑structured JSON** datasets for accurate routing and accessibility‑aware navigation.
-- Designing modular architecture with a planned **Flask + PostgreSQL** backend for scalable map and route storage.
-- **Tech Stack:** `React` · `TypeScript` · `Leaflet.js` · `SVG Maps` · `A* Algorithm` · `JSON`
-
-### 🧠 FaceID‑Attendance‑App (AI‑Based Attendance System)  
-**GitHub:** [FaceID-Attendance-App](https://github.com/absid10/FaceID-Attendance-App)
-
-Desktop attendance tool using face recognition with a Tkinter‑based interface.
-
-- Modernized a **Tkinter** desktop console orchestrating **OpenCV (Haar Cascade + LBPH)** pipelines for real‑time enrollment and attendance capture.
-- Automated the full lifecycle — CSV‑based enrollment queue, dataset capture (**60+ frames / user**), LBPH retraining, and attendance exports ready for **Excel / HRIS ingestion**.
-- Hardened admin tooling with user management, retraining shortcuts, and confidence readouts to keep datasets clean and model predictions reliable.
-- **Tech Stack:** `Python 3.10+` · `OpenCV (LBPH)` · `Tkinter` · `Pandas` · `NumPy` · `CSV`
-
-### 🎓 College Management Information System (MIS)
-
-Full‑stack MIS for managing student and faculty records.
-
-- Built a full‑stack MIS using **Java + MySQL** to manage student and faculty records.
-- Designed the UI with **HTML, CSS, JavaScript** and optimized **SQL queries** for faster data retrieval.
-- **Tech Stack:** `Java` · `MySQL` · `HTML` · `CSS` · `JavaScript`
-
----
-
-## 💡 Core Competencies
-**Technical**  
-`Problem Solving` · `Debugging` · `SQL Querying` · `API Understanding` · `Analytical Thinking`
-
-**Professional**  
-`Communication` · `Teamwork` · `Adaptability` · `Time Management`
-
----
-
-## 🌱 What I’m Focusing on Right Now
-- Turning academic projects into **clean, well‑documented GitHub repositories**.
-- Strengthening **backend development skills** with **Flask / Node.js** and **PostgreSQL**.
-- Practicing **data structures & algorithms** in `Java` and `C++`.
-- Building experience across the **full software development lifecycle** — from requirements to deployment.
-
----
-
-## 🌐 Languages
-`English` (Fluent) · `Hindi` (Native) · `Urdu` (Native) · `Marathi` (Conversational)
+**Languages:** `Python` · `Java` · `JavaScript / TypeScript` · `SQL` · `C++`  
+**Frameworks & Libraries:** `React` · `Node.js` · `Express` · `OpenCV` · `Leaflet.js` · `Pandas` · `NumPy` · `Tkinter`  
+**Databases:** `MySQL` · `MongoDB` · `PostgreSQL (basic)`  
+**Tools:** `Git` · `GitHub` · `Postman` · `VS Code` · `Jupyter Notebook` · `MySQL Workbench`  
+**Core Concepts:** `REST APIs` · `SDLC` · `Debugging` · `Data Modeling` · `A* Algorithm` · `Graph Structures` · `JSON / CSV / XML`
 
 ---
 
 ## 🧰 Tech Stack (Icons)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="34" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="34" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="28" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=tokyonight" height="170" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=tokyonight&hide=issues" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=tokyonight" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=tokyonight&hide=issues" height="160" alt="GitHub stats" />
 </p>
+
+---
+
+## 📌 Projects
+### 🏥 Smart Hospital Navigation & Wayfinding System *(Major Project — In Progress)*  
+**GitHub:** [smart-hospital-navigation](https://github.com/absid10/smart-hospital-navigation)  
+- Building a multi‑building navigation system using **React + TypeScript**, integrating **Leaflet.js** and **SVG‑based indoor maps**.  
+- Implementing **A\*** pathfinding with **graph‑structured JSON** datasets for accurate, accessibility‑aware routing.  
+- Planning a **Flask + PostgreSQL** backend for scalable map and route storage.  
+- **Tech Stack:** `React` · `TypeScript` · `Leaflet.js` · `SVG Maps` · `A* Algorithm` · `JSON`
+
+### 🧠 FaceID‑Attendance‑App (AI‑Based Attendance System)  
+**GitHub:** [FaceID-Attendance-App](https://github.com/absid10/FaceID-Attendance-App)  
+- Tkinter desktop console orchestrating **OpenCV (Haar Cascade + LBPH)** pipelines for real‑time enrollment and attendance capture.  
+- Automated CSV enrollment queue, dataset capture (**60+ frames/user**), LBPH retraining, and attendance exports.  
+- Admin tooling for user management, retraining shortcuts, and confidence readouts.  
+- **Tech Stack:** `Python 3.10+` · `OpenCV (LBPH)` · `Tkinter` · `Pandas` · `NumPy` · `CSV`
+
+### 🎓 College Management Information System (MIS)
+- Full‑stack MIS using **Java + MySQL** to manage student and faculty records.  
+- UI with **HTML, CSS, JavaScript** and optimized **SQL queries** for faster retrieval.  
+- **Tech Stack:** `Java` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+
+---
+
+## 💡 Core Competencies
+**Technical:** `Problem Solving` · `Debugging` · `SQL Querying` · `API Understanding` · `Analytical Thinking`  
+**Professional:** `Communication` · `Teamwork` · `Adaptability` · `Time Management`
+
+---
+
+## 🌱 What I’m Focusing on Right Now
+- Turning academic projects into **clean, well‑documented GitHub repositories**.  
+- Strengthening **backend development skills** with **Flask / Node.js** and **PostgreSQL**.  
+- Practicing **data structures & algorithms** in `Java` and `C++`.  
+- Building experience across the **full software development lifecycle**.
+
+---
+
+## 🌐 Languages
+`English` (Fluent) · `Hindi` (Native) · `Urdu` (Native) · `Marathi` (Conversational)
 
 ---
 
