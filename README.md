@@ -76,10 +76,11 @@ Aspiring **Software Engineer** with strong foundations in **OOP**, **data struct
 
 ### 🧠 FaceID‑Attendance‑App (AI‑Based Attendance System)  
 **GitHub:** [FaceID-Attendance-App](https://github.com/absid10/FaceID-Attendance-App)  
-- Tkinter desktop console orchestrating **OpenCV (Haar Cascade + LBPH)** pipelines for real‑time enrollment and attendance capture.  
-- Automated CSV enrollment queue, dataset capture (**60+ frames/user**), LBPH retraining, and attendance exports.  
-- Admin tooling for user management, retraining shortcuts, and confidence readouts.  
-- **Tech Stack:** `Python 3.10+` · `OpenCV (LBPH)` · `Tkinter` · `Pandas` · `NumPy` · `CSV`
+- Built a Windows-friendly Tkinter desktop app that orchestrates OpenCV face pipelines (Haar Cascade + LBPH) for
+enrollment and real-time attendance capture.
+- Implemented reliable persistence with SQLite (users, attendance) plus CSV export for Excel compatibility.
+- Packaged a one-click Windows EXE using PyInstaller with configuration handling and logging.
+- Tech Stack: `Python` . `OpenCV (LBPH)` . `Tkinter` . `SQLite` . `Pandas` . `NumPy` . `PyInstaller`
 
 ### 🎓 College Management Information System (MIS)
 - Full‑stack MIS using **Java + MySQL** to manage student and faculty records.  
