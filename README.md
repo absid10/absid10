@@ -17,7 +17,7 @@
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*Current CGPA: 8.5 / 10.0*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
-- ⚽ **Hobbies & Passions**: PLaying Football ⚽ \| Watchin Anime 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
+- ⚽ **Hobbies & Passions**: Football player ⚽ \| Anime binge-watcher 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
 
 ---
 
@@ -68,9 +68,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0d1117&border_color=21262d)
+![GitHub Streak](https://streak-stats.demolab.com?user=absid10&theme=dark&border_radius=10&background=0D1117&border=21262D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=dark&border_radius=10&bg_color=0d1117&border_color=21262d&hide=html,css)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=absid10&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=absid10&theme=github_dark)
 
 </div>
 
