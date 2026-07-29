@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*CGPA: ~6.5*).
+- 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*Current CGPA: 8.5 / 10.0*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
 - ⚽ **Hobbies & Passions**: PLaying Football ⚽ \| Watchin Anime 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
 
@@ -60,8 +60,7 @@
 
 ### 📄 Resume / CV
 
-Direct link to view and download my official Resume:
-- 📄 **[Download Official Resume (PDF)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)**
+📄 **[Download Official Resume (PDF)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)**
 
 ---
 
@@ -69,8 +68,9 @@ Direct link to view and download my official Resume:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0d1117&border_color=21262d" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=dark&border_radius=10&bg_color=0d1117&border_color=21262d&hide=html,css" height="175" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absid10&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0d1117&border_color=21262d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absid10&layout=compact&theme=dark&border_radius=10&bg_color=0d1117&border_color=21262d&hide=html,css)
 
 </div>
 
