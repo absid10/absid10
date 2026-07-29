@@ -17,7 +17,7 @@
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*Current CGPA: 8.5 / 10.0*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
-- ⚽ **Hobbies & Passions**: Football player ⚽ \| Anime binge-watcher 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
+- ⚽ **Hobbies & Passions**: Football player ⚽ \| Anime & Manga enthusiast 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
 
 ---
 
