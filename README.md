@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Live_Portfolio-absid10.vercel.app-E8553A?style=flat-square&logo=vercel&logoColor=white)](https://absid10.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-absid10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absid10/)
 [![Email](https://img.shields.io/badge/Email-siddiquiabdullahahmed75-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddiquiabdullahahmed75@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_CV-black?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*CGPA: ~6.5*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
-- ⚽ **Hobbies & Passions**: Football player ⚽ | Anime binge-watcher 🍿 | Vibe-coding cool side projects 💻 | Geeking out over flagship phones, laptops & GPUs 📱⚡
+- ⚽ **Hobbies & Passions**: Football player ⚽ \| Anime binge-watcher 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
 
 ---
 
@@ -27,6 +28,16 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,express,postgres,sqlite,html,css,git,github,docker,vscode,figma&perline=9" />
 </a>
+
+<br/><br/>
+
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` `HTML5` `CSS3` `C/C++` |
+| **Backend & APIs** | `FastAPI` `Node.js` `Express` `REST APIs` `OpenCV` `Facial Recognition` |
+| **Frontend** | `React` `Next.js` `TailwindCSS` `Bootstrap` `Leaflet.js` `GSAP` |
+| **Databases** | `PostgreSQL` `SQLite` `MongoDB` `Redis` |
+| **DevOps & Tools** | `Git` `GitHub Actions` `Docker` `Vercel` `VS Code` `Postman` `Figma` |
 
 </div>
 
@@ -44,6 +55,13 @@
 | 💚 **[Benevo](https://github.com/absid10/benevo)** | Charity tech platform connecting competitive golf scoring with monthly prize draws. | `TypeScript` `Full Stack` `Charity Tech` | [🌐 Live](https://benevo-bice.vercel.app) |
 
 </div>
+
+---
+
+### 📄 Resume / CV
+
+Direct link to view and download my official Resume:
+- 📄 **[Download Official Resume (PDF)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)**
 
 ---
 
