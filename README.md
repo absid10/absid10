@@ -3,10 +3,10 @@
 # Hi there, I'm Abdullah Ahmed Siddiqui! 👋
 ### 🚀 Python Full-Stack Developer | Software Engineer | AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Website-absid10.vercel.app-E8553A?style=for-the-badge&logo=vercel&logoColor=white)](https://absid10.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-absid10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absid10/)
-[![Email](https://img.shields.io/badge/Email-siddiquiabdullahahmed75@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddiquiabdullahahmed75@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_CV-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)
+[![Profile Views](https://komarev.com/ghpvc/?username=absid10&color=8a2be2&style=flat-square)](https://github.com/absid10)
+[![Website](https://img.shields.io/badge/Live_Portfolio-absid10.vercel.app-E8553A?style=flat-square&logo=vercel&logoColor=white)](https://absid10.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-absid10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absid10/)
+[![Email](https://img.shields.io/badge/Email-siddiquiabdullahahmed75-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddiquiabdullahahmed75@gmail.com)
 
 </div>
 
@@ -16,22 +16,17 @@
 
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*Current CGPA: 8.5 / 10.0*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
-- ⚽ **Hobbies & Passions**: Football player, Anime enthusiast, Vibe-coding cool side projects, and geeking out over flagship phones, laptops, and GPUs!
-- ⚡ **Fun Fact**: I love building applications that solve real-world problems — from hospital indoor wayfinding to face-ID desktop attendance management.
+- ⚽ **Hobbies & Passions**: Football player ⚽ | Anime binge-watcher 🍿 | Vibe-coding cool side projects 💻 | Geeking out over flagship phones, laptops & GPUs 📱⚡
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧰 Tech Stack & Tools
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` `HTML5` `CSS3` `C/C++` |
-| **Backend & APIs** | `FastAPI` `Node.js` `Express` `REST APIs` `OpenCV` `Facial Recognition` |
-| **Frontend** | `React` `Next.js` `TailwindCSS` `Bootstrap` `Leaflet.js` `GSAP` |
-| **Databases** | `PostgreSQL` `SQLite` `MongoDB` `Redis` |
-| **DevOps & Tools** | `Git` `GitHub Actions` `Docker` `Vercel` `VS Code` `Postman` |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,express,postgres,sqlite,html,css,git,github,docker,vscode,figma&perline=9" />
+</a>
 
 </div>
 
@@ -41,18 +36,18 @@
 
 <div align="center">
 
-| Project | Description | Stack | Live / Links |
+| Project | Description | Stack | Live Link |
 | :--- | :--- | :--- | :---: |
-| 📍 **[Multi-Building Pathfinder](https://github.com/absid10/multi-building-pathfinder)** | Hospital indoor SVG navigation, multi-floor A* pathfinding & route visualization. | `React` `TypeScript` `A*` `Leaflet` | [🌐 Live Demo](https://multi-building-pathfinder.vercel.app) |
-| 🏗️ **[BuildFlow ERP](https://github.com/absid10/BuildFlow-ERP)** | Enterprise resource planning system for construction project management & CRUD tracking. | `TypeScript` `React` `Full Stack` | [🌐 Live Demo](https://buildflow-erp.vercel.app) |
+| 📍 **[Multi-Building Pathfinder](https://github.com/absid10/multi-building-pathfinder)** | Hospital indoor SVG navigation, multi-floor A* pathfinding & route visualization. | `React` `TypeScript` `A*` `Leaflet` | [🌐 Live](https://multi-building-pathfinder.vercel.app) |
+| 🏗️ **[BuildFlow ERP](https://github.com/absid10/BuildFlow-ERP)** | Enterprise resource planning system for construction project management & CRUD tracking. | `TypeScript` `React` `Full Stack` | [🌐 Live](https://buildflow-erp.vercel.app) |
 | 📷 **[FaceID Attendance App](https://github.com/absid10/FaceID-Attendance-App)** | OpenCV face-matching desktop app with automated check-in logging & report exports. | `Python` `OpenCV` `Face Recognition` | [💻 Download EXE](https://github.com/absid10/FaceID-Attendance-App/releases/tag/v1.0.1) |
-| 💚 **[Benevo](https://github.com/absid10/benevo)** | Charity tech platform connecting competitive golf scoring with monthly prize draws. | `TypeScript` `Full Stack` `Charity Tech` | [🌐 Live Demo](https://benevo-bice.vercel.app) |
+| 💚 **[Benevo](https://github.com/absid10/benevo)** | Charity tech platform connecting competitive golf scoring with monthly prize draws. | `TypeScript` `Full Stack` `Charity Tech` | [🌐 Live](https://benevo-bice.vercel.app) |
 
 </div>
 
 ---
 
-### 📈 GitHub Statistics & Live Matrix
+### 📈 GitHub Live Metrics
 
 <div align="center">
 
@@ -65,9 +60,7 @@
 
 <div align="center">
 
-### 🌐 Explore My Full Portfolio Website
+### 🌐 Visit My Live Portfolio
 [**👉 absid10.vercel.app 👈**](https://absid10.vercel.app)
-
-*Crafted with ❤️ by Abdullah Ahmed Siddiqui*
 
 </div>
