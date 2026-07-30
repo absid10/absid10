@@ -52,7 +52,7 @@
 | Project | Description | Stack | Live Link / Status |
 | :--- | :--- | :--- | :---: |
 | 📍 **[Multi-Building Pathfinder](https://github.com/absid10/multi-building-pathfinder)** | Hospital indoor SVG navigation, multi-floor A* pathfinding & route visualization. | `React` `TypeScript` `A*` `Leaflet` | [🌐 Live](https://multi-building-pathfinder.vercel.app) |
-| 🏗️ **[BuildFlow ERP](https://github.com/absid10/BuildFlow-ERP)** | Enterprise resource planning system for construction management, expenses & revenue analytics. | `TypeScript` `React` `ERP` | [🚧 In Progress (AyeBees Tech)](https://buildflow-erp.vercel.app) |
+| 🏗️ **[BuildFlow ERP](https://github.com/absid10/BuildFlow-ERP)** | Enterprise resource planning system for construction management, expenses & revenue analytics. | `TypeScript` `React` `ERP` | [🚧 In Progress (AyeBeesTech)](https://buildflow-erp.vercel.app) |
 | 📷 **[FaceID Attendance App](https://github.com/absid10/FaceID-Attendance-App)** | OpenCV face-matching desktop app with automated check-in logging & report exports. | `Python` `OpenCV` `Face Recognition` | [💻 Download EXE](https://github.com/absid10/FaceID-Attendance-App/releases/tag/v1.0.1) |
 | 💚 **[Benevo](https://github.com/absid10/benevo)** | Charity tech platform connecting competitive golf scoring with monthly prize draws. | `TypeScript` `Full Stack` `Charity Tech` | [🌐 Live](https://benevo-bice.vercel.app) |
 
