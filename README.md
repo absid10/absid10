@@ -15,7 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Startup**: Founder & Lead Software Engineer @ **[AyeBees Tech](https://www.linkedin.com/company/ayebeestech)** (Building Enterprise SaaS & Custom Tech Solutions).
+- 🚀 **Studio Venture**: Founder & Developer @ **[AyeBeesTech](https://www.linkedin.com/company/ayebeestech)** (Web & Software Development Studio for Businesses & Startups).
+- 💼 **Career Status**: 🟢 **Open To Work** & actively seeking full-time **Software Developer / Full-Stack Engineer** roles!
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*Current CGPA: 8.5 / 10.0*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
 - ⚽ **Hobbies & Passions**: Football player ⚽ \| Anime & Manga enthusiast 🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
