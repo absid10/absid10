@@ -17,7 +17,7 @@
 
 - 🚀 **Studio Venture**: Founder & Developer @ **[AyeBeesTech](https://www.linkedin.com/company/ayebeestech)** (Web & Software Development Studio for Businesses & Startups).
 - 💼 **Career Status**: 🟢 **Open To Work** & actively seeking full-time **Software, IT & Engineering** roles!
-- 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*CGPA: ~6.5*).
+- 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*CGPA: 6.601*).
 - 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
 - ⚽ **Hobbies & Passions**: Playing Football ⚽ \| Watching Animes/ Reading Mangas🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
 
