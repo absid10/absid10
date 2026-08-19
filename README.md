@@ -1,9 +1,12 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi there, I'm Abdullah Ahmed Siddiqui! 👋
-### 🚀 Python Full-Stack Developer | Software Engineer | AI Enthusiast
+![Abdullah Ahmed Siddiqui Banner](Abdullah_linkedin_banner.png)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=absid10&color=8a2be2&style=flat-square)](https://github.com/absid10)
+# Hi there, I'm Abdullah Ahmed Siddiqui 👋
+### Software Developer • Full-Stack & Backend Engineering • QA & Automation
+
+📍 Pune, Maharashtra, India  
+[![Profile Views](https://komarev.com/ghpvc/?username=absid10&color=E8553A&style=flat-square)](https://github.com/absid10)
 [![Website](https://img.shields.io/badge/Live_Portfolio-absid10.vercel.app-E8553A?style=flat-square&logo=vercel&logoColor=white)](https://absid10.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-absid10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absid10/)
 [![Email](https://img.shields.io/badge/Email-siddiquiabdullahahmed75-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddiquiabdullahahmed75@gmail.com)
@@ -13,33 +16,43 @@
 
 ---
 
-### 👨‍💻 About Me
+### 📌 About Me
 
-- 🚀 **Studio Venture**: Founder & Developer @ **[AyeBeesTech](https://www.linkedin.com/company/ayebeestech)** (Web & Software Development Studio for Businesses & Startups).
-- 💼 **Career Status**: 🟢 **Open To Work** & actively seeking full-time **Software, IT & Engineering** roles!
+- 💼 **Current Role**: Software Developer Intern @ **Quartoloom Solutions** (On-site, Pune).
 - 🎓 **Education**: B.Tech in Computer Science & Engineering @ **Government College of Engineering (GECA)**, Chh. Sambhajinagar (*CGPA: 6.601*).
-- 🛠️ **Tech Focus**: Building scalable, production-ready web applications, REST APIs, AI-powered systems, and real-time pathfinding algorithms.
-- ⚽ **Hobbies & Passions**: Playing Football ⚽ \| Watching Animes/ Reading Mangas🍿 \| Vibe-coding cool side projects 💻 \| Geeking out over flagship phones, laptops & GPUs 📱⚡
+- 💻 **Tech Focus**: Full-stack web applications, Python backend services, REST APIs, QA & automation testing, and AI-assisted engineering.
+- ⚽ **Passions**: Playing Football | Watching Anime & Reading Manga | Geeking out over tech hardware & dev tools.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 💼 Experience
+
+- **Software Developer Intern** — **Quartoloom Solutions** · *Pune (Aug 2026 – Present)*  
+  *Training on QA processes, automation testing with Katalon Studio, and SQL as part of onboarding.*
+- **Web Developer Intern** — **Amdox Technologies** · *Remote (Apr 2026 – Jul 2026)*  
+  *Built React UI components and integrated backend APIs for an AI-powered Cloud ERP suite; conducted functional & regression testing.*
+- **Founder & Full-Stack Developer** — **AyeBeesTech** · *Remote (Jan 2026 – Aug 2026)*  
+  *Delivered full-stack web applications for small businesses; designed and shipped a full-stack client ERP solution end-to-end.*
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,express,postgres,sqlite,html,css,git,github,docker,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,fastapi,nodejs,express,postgres,mysql,sqlite,mongodb,html,css,tailwind,git,github,docker,aws,postman,vscode&perline=10" />
 </a>
 
 <br/><br/>
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` `HTML5` `CSS3` `C/C++` |
-| **Backend & APIs** | `FastAPI` `Node.js` `Express` `REST APIs` `OpenCV` `Facial Recognition` |
-| **Frontend** | `React` `Next.js` `TailwindCSS` `Bootstrap` `Leaflet.js` `GSAP` |
-| **Databases** | `PostgreSQL` `SQLite` `MongoDB` `Redis` |
-| **DevOps & Tools** | `Git` `GitHub Actions` `Docker` `Vercel` `VS Code` `Postman` `Figma` |
+| **Languages** | `Python` `JavaScript` `TypeScript` `SQL` `Java` `HTML5` `CSS3` |
+| **Backend & APIs** | `FastAPI` `Flask` `Node.js` `Express` `SQLAlchemy` `REST APIs` `JWT Auth` `RBAC` |
+| **Frontend** | `React` `Vite` `Tailwind CSS` `Bootstrap` `Leaflet.js` `Vanilla JS` |
+| **Databases** | `MySQL` `PostgreSQL` `SQLite` `MongoDB` `Redis` |
+| **Cloud, Testing & DevOps** | `AWS (EC2, S3)` `Docker` `Git` `GitHub Actions` `Katalon Studio` `pytest` `Postman` `Vercel` `Render` |
 
 </div>
 
@@ -49,24 +62,17 @@
 
 <div align="center">
 
-| Project | Description | Stack | Live Link / Status |
+| Project | Description | Stack | Live Demo / Repo |
 | :--- | :--- | :--- | :---: |
-| 📍 **[Multi-Building Pathfinder](https://github.com/absid10/multi-building-pathfinder)** | Hospital indoor SVG navigation, multi-floor A* pathfinding & route visualization. | `React` `TypeScript` `A*` `Leaflet` | [🌐 Live](https://multi-building-pathfinder.vercel.app) |
-| 🏗️ **[BuildFlow ERP](https://github.com/absid10/BuildFlow-ERP)** | Enterprise resource planning system for construction management, expenses & revenue analytics. | `TypeScript` `React` `ERP` | [🚧 In Progress (AyeBeesTech)](https://buildflow-erp.vercel.app) |
-| 📷 **[FaceID Attendance App](https://github.com/absid10/FaceID-Attendance-App)** | OpenCV face-matching desktop app with automated check-in logging & report exports. | `Python` `OpenCV` `Face Recognition` | [💻 Download EXE](https://github.com/absid10/FaceID-Attendance-App/releases/tag/v1.0.1) |
-| 💚 **[Benevo](https://github.com/absid10/benevo)** | Charity tech platform connecting competitive golf scoring with monthly prize draws. | `TypeScript` `Full Stack` `Charity Tech` | [🌐 Live](https://benevo-bice.vercel.app) |
+| 🏥 **[Multi-Building Pathfinder](https://github.com/absid10/multi-building-pathfinder)** | Hospital indoor SVG navigation, multi-floor A* pathfinding & QR route visualization for GMCH. | `Flask` `React` `Leaflet` `Redis` `A*` | [🌐 Live Demo](https://multi-building-pathfinder.vercel.app) |
+| 👤 **[FaceID Attendance App](https://github.com/absid10/FaceID-Attendance-App)** | Python desktop attendance system using OpenCV Haar Cascade & LBPH recognition with automated reporting. | `Python` `OpenCV` `Tkinter` `SQLite` | [📦 Repo & Releases](https://github.com/absid10/FaceID-Attendance-App) |
+| 🔒 **[Secure Notes API](https://github.com/absid10/secure-notes)** | Secure REST API with JWT authentication, bcrypt hashing, RBAC, Pydantic validation & pytest coverage. | `FastAPI` `React` `JWT` `pytest` | [📂 Repo](https://github.com/absid10/secure-notes) |
 
 </div>
 
 ---
 
-### 📄 Resume / CV
-
-📄 **[Download Official Resume (PDF)](https://drive.google.com/file/d/1-O7s7Wk81TYTWUoMmTNA2dQlYqtRxGAj/view?usp=sharing)**
-
----
-
-### 📈 GitHub Live Metrics
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
@@ -81,7 +87,7 @@
 
 <div align="center">
 
-### 🌐 Visit My Live Portfolio
+### 🌐 Live Portfolio Website
 [**👉 absid10.vercel.app 👈**](https://absid10.vercel.app)
 
 </div>
